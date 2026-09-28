@@ -1,8 +1,8 @@
 # Hi, I'm Onyinyechi Obiajuru
 
-I'm a backend engineer at MAX (Metro Africa Xpress) in Lagos. For about four years, I've been building APIs, data models and payment integrations, mostly in Node.js, TypeScript and Go, with PostgreSQL underneath.
+I'm a backend engineer at MAX (Metro Africa Xpress) in Lagos, with about four years of building APIs, data models and payment integrations in Node.js, TypeScript and Go, on top of PostgreSQL. A lot of my work sits close to payments, so reliability and clean data matter in everything I ship.
 
-Before engineering, I studied Sociology and Anthropology at the University of Benin, and I'm heading back in that direction. My research interest is health inequality, especially who gets access to maternal and antenatal care in Nigeria and why. I'm working toward graduate study in computational social science, where I can use what I know about building systems to ask better questions about people.
+I also bring a social science lens to how I build. I studied Sociology and Anthropology at the University of Benin, and I do research on health inequality, particularly access to maternal and antenatal care in Nigeria. The two feed each other: engineering makes my research more rigorous, and thinking about people makes me a better engineer.
 
 ## What I work with
 
