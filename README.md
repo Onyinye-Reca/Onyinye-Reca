@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://github.com/Onyinye-Reca">
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=420&text=Hello!%20I'm" alt="Hello! I&#39;m" />
+  </a>
+</p>
+
 ### 🚀 About Me
 
 
@@ -35,11 +41,7 @@ I'm building a Go service for handling payment webhooks properly (signature chec
 [LinkedIn](https://linkedin.com/in/onyinyechi-obiajuru)
 
 
-<p align="center">
-  <a href="https://github.com/Onyinye-Reca">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=420&text=Hello!%20I'm" alt="Hello! I&#39;m" />
-  </a>
-</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=360&height=44&lines=a%20Software%20Engineer;and%20a%20Sociologist" alt="Typing headlines" />
