@@ -1,13 +1,13 @@
 <p align="center">
   <a href="https://github.com/Onyinye-Reca">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=420&text=Hello!%20" alt="Hello! &#39;" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=420&text=Hello!%20👋🏻👋🏻" alt="Hello! &#39;" />
   </a>
 </p>
 
 ### 🚀 About Me
 
 
-# Hi, I'm Onyinyechi Obiajuru
+#I'm Onyinyechi Obiajuru
 
 I'm a backend engineer at MAX (Metro Africa Xpress) in Lagos, with about four years of building APIs, data models and payment integrations in Node.js, TypeScript and Go, on top of PostgreSQL. A lot of my work sits close to payments, so reliability and clean data matter in everything I ship.
 
