@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Onyinye-Reca">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=420&text=Hello!%20I'm" alt="Hello! &#39;" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=420&text=Hello!%20" alt="Hello! &#39;" />
   </a>
 </p>
 
