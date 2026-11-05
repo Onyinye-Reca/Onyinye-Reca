@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="90" viewBox="0 0 1000 90" role="img" aria-labelledby="rf-title">
+  <title id="rf-title">Thanks for stopping by</title>
+  <defs>
+    <linearGradient id="rf-bg" x1="0" x2="1">
+      <stop offset="0" stop-color="#0B1210"/>
+      <stop offset="0.5" stop-color="#12201B"/>
+      <stop offset="1" stop-color="#0B1210"/>
+    </linearGradient>
+    <linearGradient id="rf-line" x1="0" x2="1">
+      <stop offset="0" stop-color="#2F7A5B" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#2F7A5B"/>
+      <stop offset="1" stop-color="#2F7A5B" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="rf-clip">
+      <rect width="1000" height="90" rx="14"/>
+    </clipPath>
+  </defs>
+
+  <style>
+    .rf-flow { stroke-dasharray: 4 16; animation: rf-flow 2.6s linear infinite; }
+    .rf-back { animation-direction: reverse; }
+    @keyframes rf-flow { to { stroke-dashoffset: -40; } }
+    .rf-pulse { transform-box: fill-box; transform-origin: center; animation: rf-pulse 3s ease-in-out infinite; }
+    @keyframes rf-pulse { 0%, 100% { opacity: 0.25; transform: scale(1); } 50% { opacity: 0.8; transform: scale(1.8); } }
+    @media (prefers-reduced-motion: reduce) { .rf-flow, .rf-pulse { animation: none; } }
+  </style>
+
+  <g clip-path="url(#rf-clip)">
+    <rect width="1000" height="90" fill="url(#rf-bg)"/>
+    <path d="M40 45H380M620 45H960" stroke="url(#rf-line)" stroke-width="1.5"/>
+    <path d="M60 45H380" stroke="#E0A33A" stroke-width="1.5" stroke-linecap="round" opacity="0.7" class="rf-flow"/>
+    <path d="M620 45H940" stroke="#E0A33A" stroke-width="1.5" stroke-linecap="round" opacity="0.7" class="rf-flow rf-back"/>
+    <circle cx="380" cy="45" r="3.5" fill="#12201B" stroke="#2F7A5B" stroke-width="1.5"/>
+    <circle cx="620" cy="45" r="3.5" fill="#12201B" stroke="#2F7A5B" stroke-width="1.5"/>
+    <circle class="rf-pulse" cx="500" cy="22" r="5" fill="none" stroke="#E0A33A"/>
+    <circle cx="500" cy="22" r="3" fill="#E0A33A"/>
+    <text x="500" y="54" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="17" font-style="italic" fill="#F7F3EA">Thanks for stopping by</text>
+    <text x="500" y="74" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="11" letter-spacing="3" fill="#8FA89B">LAGOS, NIGERIA</text>
+  </g>
+</svg>
